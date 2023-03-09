@@ -1,5 +1,0 @@
-
- #Deffination of terms
-
-
-
